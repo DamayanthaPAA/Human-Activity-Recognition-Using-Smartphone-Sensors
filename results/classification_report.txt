@@ -1,0 +1,15 @@
+Test Set Classification Report - Random Forest
+============================================================
+
+                    precision    recall  f1-score   support
+
+            LAYING       1.00      1.00      1.00       537
+           SITTING       0.92      0.89      0.90       491
+          STANDING       0.90      0.93      0.91       532
+           WALKING       0.89      0.97      0.93       496
+WALKING_DOWNSTAIRS       0.95      0.84      0.89       420
+  WALKING_UPSTAIRS       0.90      0.91      0.91       471
+
+          accuracy                           0.93      2947
+         macro avg       0.93      0.92      0.92      2947
+      weighted avg       0.93      0.93      0.93      2947
