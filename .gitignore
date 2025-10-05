@@ -44,8 +44,7 @@ Thumbs.db
 # Jupyter Notebook
 .ipynb_checkpoints
 
-# Matplotlib
-*.png
+# Matplotlib (exclude temporary plots, but keep results)
 *.jpg
 *.jpeg
-*.pdf
+# Keep results/ directory for project outputs
